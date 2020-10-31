@@ -9,7 +9,8 @@
 - [Amjad Ali] (https://github.com/AmjadKudsi)
 - [Guy Chamberlain-Webber](https://github.com/guyus15)
 - Alok Awasthi
-- Bryce Videka 
+- Bryce Videka
+Jarred Lopez
 - [Ivan Montiel](https://github.com/begeistert)
 - [Asif Akhtar](https://github.com/imasifakhtar)
 - [Sakshi Shreya](https://github.com/sakshishreyaa)
